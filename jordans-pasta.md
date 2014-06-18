@@ -6,7 +6,10 @@
 * Bay Leaf
 * Cream
 * Cheese
+* Noodles
 
 ## Steps
-
-## Final Prep
+* Cook noodles
+* Cook garlic
+* Mix it all together
+* Eat
