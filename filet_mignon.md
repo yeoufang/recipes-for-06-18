@@ -5,6 +5,10 @@
 * pepper
 
 ## Steps
+* clean grill
+* ignite grill
+* wait until 600 degrees F
+
 
 ## Final Prep
 
