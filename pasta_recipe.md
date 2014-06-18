@@ -3,8 +3,8 @@
 ## Recipe
 
 ### Ingredients
-* first
-* second
+* onion
+* tomatoe
 
 ### Steps
 * step1
