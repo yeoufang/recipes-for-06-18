@@ -3,6 +3,9 @@
 ## Ingredients
 * Garlic
 * Onion
+* Bay Leaf
+* Cream
+* Cheese
 
 ## Steps
 
