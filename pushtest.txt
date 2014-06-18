@@ -1,0 +1,4 @@
+total 8.0K
+-rw-rw-r-- 1 yug yug   93 Jun 18 11:42 README.md
+-rw-rw-r-- 1 yug yug 1.1K Jun 18 11:42 LICENSE
+-rw-rw-r-- 1 yug yug    0 Jun 18 11:46 pushtest.txt
